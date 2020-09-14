@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "complex": "cpp",
-        "cmath": "cpp",
-        "typeinfo": "cpp"
-    }
-}
